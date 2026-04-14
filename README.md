@@ -25,8 +25,10 @@ Overall, completing this program and developing my ePortfolio has prepared me to
 | **Milestone Two** | Algorithms & Data Structures | [Download ZIP](./CS%20499%20Milestone%20Two.zip) |
 | **Milestone Three** | Software Design & Databases | [Download ZIP](./CS%20499%20Milestone%20Three%20.zip) |
 
-## 📺 Code Review Walkthrough
-Click the button below to watch my 5-minute technical deep dive into the code enhancements made for this project.
 
-[![Watch the video](https://img.shields.io/badge/YouTube-Watch%20Review-red?style=for-the-badge&logo=youtube)]
- [Full Code Review - YouTube](https://www.youtube.com/watch?v=Yt6Pv8XpOG4)
+
+## 📺 Code Review Walkthrough
+Click the button below to watch my 9-minute technical deep dive into the code enhancements made for this project.
+
+[![Watch the video](https://img.shields.io/badge/YouTube-Watch%20Review-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Yt6Pv8XpOG4)
+
