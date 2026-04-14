@@ -24,3 +24,8 @@ Overall, completing this program and developing my ePortfolio has prepared me to
 | **Milestone One** | Security & Information Assurance | [Download ZIP](./CS%20499%20Milestone%20One.zip) |
 | **Milestone Two** | Algorithms & Data Structures | [Download ZIP](./CS%20499%20Milestone%20Two.zip) |
 | **Milestone Three** | Software Design & Databases | [Download ZIP](./CS%20499%20Milestone%20Three%20.zip) |
+
+## Video Code Review
+In this video, I provide a detailed walkthrough and code review of my capstone artifacts, highlighting the enhancements made in software design, algorithms, and security.
+
+* **Watch the Review:** [Full Code Review - YouTube](https://www.youtube.com/watch?v=Yt6Pv8XpOG4)
