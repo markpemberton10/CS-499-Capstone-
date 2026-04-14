@@ -1,2 +1,25 @@
-<video src="https://youtu.be/Yt6Pv8XpOG4" controls="controls" style="max-width: 100%;">
-</video>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CS-499 Capstone Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Mark Pemberton</h1>
+            <p>Computer Science Capstone Project</p>
+            <nav>
+                <a href="#about">About</a>
+                <a href="#artifacts">Artifacts</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </header>
+
+        <section id="about">
+            <h2>Self-Assessment</h2>
+            <p>Your content goes here...</p>
+        </section>
+    </div>
+</body>
+</html>
