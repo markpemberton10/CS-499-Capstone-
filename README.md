@@ -17,3 +17,10 @@ Security is another important concept I have developed throughout the program. I
 The artifacts included in my ePortfolio collectively demonstrate my growth across these areas. My weight tracking mobile application serves as a central piece that ties together software design, algorithms, and database functionality. By enhancing this application, I was able to showcase my ability to improve an existing system, apply best practices, and implement new features that add value. Each enhancement reflects a deeper level of understanding and a more professional approach to development.
 
 Overall, completing this program and developing my ePortfolio has prepared me to enter the field of computer science with confidence. I have not only gained technical skills, but I have also learned how to present those skills in a clear and professional manner. Moving forward, I plan to continue building on this foundation by expanding my knowledge, working on more complex projects, and pursuing opportunities that allow me to grow as a software developer. This ePortfolio represents both my current abilities and my potential for continued development in the field.
+## Project Artifacts
+
+| Milestone | Category | Link to Project |
+| :--- | :--- | :--- |
+| **Milestone One** | Security & Information Assurance | [Download ZIP](./CS%20499%20Milestone%20One.zip) |
+| **Milestone Two** | Algorithms & Data Structures | [Download ZIP](./CS%20499%20Milestone%20Two.zip) |
+| **Milestone Three** | Software Design & Databases | [Download ZIP](./CS%20499%20Milestone%20Three%20.zip) |
